@@ -1,1 +1,17 @@
-
+{
+    "id": 124240899,
+    "name": "A101 UFO",
+    "author": "Cduking",
+    "creators": ["Cduking"],
+    "verifier": "Cduking",
+    "verification": "https://youtu.be/lN1o8mCm6xg",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ick567",
+            "link": "https://youtu.be/bw8YOuFCmGs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
