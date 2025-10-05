@@ -1,0 +1,17 @@
+{
+    "id": 124246688,
+    "name": "A101 Memories",
+    "author": "Cduking",
+    "creators": ["Cduking"],
+    "verifier": "Cduking",
+    "verification": "https://youtu.be/jiAGcv72-LE",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ick567",
+            "link": "https://youtu.be/bw8YOuFCmGs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
