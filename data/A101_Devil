@@ -1,1 +1,18 @@
-
+{
+    "id": 126740091,
+    "name": "A101 Devil",
+    "author": "Cduking",
+    "creators": ["Cduking"],
+    "verifier": "Cduking",
+    "verification": "https://youtu.be/C2ElRCbCzmc",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "ick567",
+            "link": "https://youtu.be/bw8YOuFCmGs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
