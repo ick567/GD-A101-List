@@ -1,1 +1,17 @@
-
+{
+    "id": 124247629,
+    "name": "A101 of Darkness",
+    "author": "Cduking",
+    "creators": ["Cduking"],
+    "verifier": "Cduking",
+    "verification": "https://youtu.be/0TL7PUsNqkA",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "ick567",
+            "link": "https://youtu.be/bw8YOuFCmGs",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
