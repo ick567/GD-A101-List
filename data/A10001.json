@@ -4,8 +4,14 @@
     "author": "Cduking",
     "creators": ["Cduking"],
     "verifier": "Cduking",
-    "verification": "https://youtu.be/y_HGw5AACm8",
+    "verification": "https://youtu.be/PNCo0E127KI",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "ick567",
+            "link": "https://youtu.be/y_HGw5AACm8",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
