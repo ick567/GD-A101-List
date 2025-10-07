@@ -1,0 +1,17 @@
+{
+    "id": 126812238,
+    "name": "A10001",
+    "author": "Cduking",
+    "creators": ["Cduking"],
+    "verifier": "Cduking",
+    "verification": "https://youtu.be/QFur5xpj2fs",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ick567",
+            "link": "https://youtu.be/1-VpNbCMQxE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
