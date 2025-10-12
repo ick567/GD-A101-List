@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/4QqUXAO0c54",
     "percentToQualify": 100,
     "records": [
+        {
+                "user": "IAmTheSolarFlare",
+            "link": "https://youtu.be/iqXa-3tTnXw",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
