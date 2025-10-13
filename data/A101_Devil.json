@@ -6,7 +6,7 @@
     "verifier": "Cduking",
     "verification": "https://youtu.be/C2ElRCbCzmc",
     "percentToQualify": 100,
-    "records": [
+    "records": 
         {
             "user": "ick567",
             "link": "https://youtu.be/bw8YOuFCmGs",
@@ -15,7 +15,7 @@
         },
         {
             "user": "IAmTheSolarFlare",
-            "link": "https://youtu.be/SWzk1rQrvLM"
+            "link": "https://youtu.be/SWzk1rQrvLM",
             "percent": 100,
             "hz": 60
         }
