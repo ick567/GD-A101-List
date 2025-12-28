@@ -7,5 +7,10 @@
     "verification": "https://youtu.be/Bhn-06zr3CI",
     "percentToQualify": "100",
     "records": [
+                {
+                    "user": "TheOfficialBlue",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
     ]
 }
