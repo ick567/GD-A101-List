@@ -12,6 +12,12 @@
             "link": "https://youtu.be/bw8YOuFCmGs",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "TheOfficialBlue",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }  
     ]
 }
