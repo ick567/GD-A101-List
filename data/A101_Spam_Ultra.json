@@ -1,0 +1,17 @@
+{
+    "id": 130324707,
+    "name": "A101 BOOBAWAMBA",
+    "author": "TheOfficialBlue",
+    "creators": ["TheOfficialBlue"],
+    "verifier": "TheOfficialBlue",
+    "verification": "none",
+    "percentToQualify": "100",
+    "records": [
+            {
+                    "user": "ick567",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
