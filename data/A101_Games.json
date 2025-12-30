@@ -18,6 +18,12 @@
             "link": "https://youtu.be/gHHL6SnHTo",
             "percent": 100,
             "hz": 60
+        },
+        {
+                    "user": "print",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
