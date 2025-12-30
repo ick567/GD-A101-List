@@ -12,6 +12,12 @@
             "link": "https://youtu.be/y_HGw5AACm8",
             "percent": 100,
             "hz": 60
+        },
+        {
+                    "user": "print",
+            "link": "none",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
