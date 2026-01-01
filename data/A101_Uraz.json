@@ -1,0 +1,17 @@
+{
+    "id": 127499082,
+    "name": "A101 Uraz",
+    "author": "Cduking",
+    "creators": ["Cduking"],
+    "verifier": "print",
+    "verification": "none",
+    "percentToQualify": 60,
+    "records": [
+        {
+            "user": "ick567",
+            "link": "none",
+            "percent": 92,
+            "hz": 60
+        }
+    ]
+}
